@@ -61,13 +61,12 @@
 
         </plugins>
     </build>
-  <!-- <repositories>
+  <repositories>
     <repository>
       <id>jboss-public-repository-group</id>
       <name>JBoss Public Repository Group</name>
 			<url>http://maven.repository.redhat.com/techpreview/all/</url>
-	
-      <releases>
+	<releases>
         <enabled>true</enabled>
         <updatePolicy>never</updatePolicy>
       </releases>
@@ -76,5 +75,5 @@
         <updatePolicy>daily</updatePolicy>
       </snapshots>
     </repository>
-  </repositories>-->
+  </repositories>
 </project>
