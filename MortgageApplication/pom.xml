@@ -11,8 +11,8 @@
     
   	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<drools.version>6.3.0.Final</drools.version>
-		<jbpm.version>6.3.0.Final</jbpm.version>
+		<drools.version>6.3.0.Final-redhat-9</drools.version>
+		<jbpm.version>6.3.0.Final-redhat-9</jbpm.version>
 	</properties>
     
   <dependencies>
