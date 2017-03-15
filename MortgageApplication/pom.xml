@@ -8,6 +8,13 @@
   <name>mortgage</name>
   <description>Mortgage application to demo basic features of BPMS 6</description>
   <packaging>kjar</packaging>
+    
+  	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<drools.version>6.3.0.Final</drools.version>
+		<jbpm.version>6.3.0.Final</jbpm.version>
+	</properties>
+    
   <dependencies>
 <!-- add this dependency if there are Model Classes present (created by Data Modeler in the business-central) -->
         <dependency>
